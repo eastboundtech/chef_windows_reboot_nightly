@@ -6,6 +6,4 @@ This file is used to list changes made in each version of the windows_reboot_nig
 
 Initial release.
 
-- change 0
-- change 1
-
+- A schedule task to restart 1:00 AM everyday
